@@ -1,0 +1,15 @@
+joblib
+matplotlib
+mlflow
+numpy
+pandas
+pyarrow
+PyYAML
+python-box
+scikit-learn
+streamlit
+tqdm
+types-PyYAML
+
+-e .
+
